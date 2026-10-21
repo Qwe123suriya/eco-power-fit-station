@@ -27,3 +27,7 @@ Open `index.html` in a modern browser. An internet connection is only needed for
 - `app.js` — language toggle, demo cart, timer, quiz, challenge, energy estimate
 - `assets/logo.svg` — vector brand logo
 - `assets/360-view.jpeg`, `assets/exploded-view.jpeg`, `assets/hero-ad.png` — supplied project visuals
+
+
+## Product image update
+The featured product card and gallery now include `assets/eco-power-bike-new.png`, the newly supplied digital-display Eco-Power Fit Station product render. Existing 360° and exploded-view assets remain available in the gallery.
